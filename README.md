@@ -6,8 +6,6 @@
 
 
 
-<img align="right" alt="Coding" width="210" height="300" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
-
 - 🌱 Primarly working on  **React Redux | PHP Laravel & Blade** 
 - 👨‍💻 All of my projects are available at [https://8bitchips.github.io/](https://8bitchips.github.io/)
 - 💬 Winner **Smart India Hackathon 2022 |  IIIT Delhi Solana HackDay**
@@ -20,9 +18,9 @@
 
 
 
-### 📫 Like to meet me?
 
-Currently Working on PHP Laravel + OpenAI ChatGPT 
+
+### Currently Working on PHP Laravel + OpenAI ChatGPT 
 <a href="https://teamcode.tech/" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 
