@@ -1,6 +1,6 @@
 [![111.png](https://i.postimg.cc/YCbTKmhW/111.png)](https://postimg.cc/DS4x10Qv)
 <br>
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते 🙏🏻, I'm Shashank ! </h2>
+<h2> नमस्ते 🙏🏻, I'm Shashank ! </h2>
 <p>Final Year CSE  <a href="https://www.oneorigin.us/">
 </p>
 
