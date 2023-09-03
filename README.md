@@ -29,14 +29,14 @@
 ```javascript
 const shashank = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Python", "C++", "PHP"],
+    askMeAbout: ["Web Dev", "Tech", "APIs],
     technologies: {
         backEnd: {
             js: ["Node", "Fastify", "Express"],
         },
         mobileApp: {
-            native: ["Android Development"]
+            native: ["React Development"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
