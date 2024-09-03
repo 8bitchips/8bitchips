@@ -1,14 +1,13 @@
 [![111.png](https://i.postimg.cc/YCbTKmhW/111.png)](https://postimg.cc/DS4x10Qv)
 <br>
 <h2> नमस्ते 🙏🏻, I'm Shashank ! </h2>
-<p>Final Year CSE  <a href="https://www.oneorigin.us/">
+<p>SDE I at Commvault
 </p>
 
 
 
-- 🌱 Primarly working on  **React Redux | PHP Laravel & Blade** 
+- 🌱 Primarly working on  **Python | C++ | NodeJS | LLMs** 
 - 👨‍💻 All of my projects are available at [https://8bitchips.github.io/](https://8bitchips.github.io/)
-- 💬 Winner **Smart India Hackathon 2022 |  IIIT Delhi Solana HackDay**
 - 📫 How to reach me **rexarronax@gmail.com**
 - 📄 Know about my experience's 
 
